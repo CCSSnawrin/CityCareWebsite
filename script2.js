@@ -8,3 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
+<script>
+  window.location.replace("/home.html");
+</script>
